@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋,I'm R.Ashwin Sathyanarayana
+A  Passionate Computer Science Student from India
 
 <!--
 **Ashwin6607/Ashwin6607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
